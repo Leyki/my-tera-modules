@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "colorful-whispers",
+    "author": "Leyki, TerableCoder",
+    "version": 1.1,
+    "description": "Customize the color of whispers to your own desire based on context.",
+    "options": {
+        "niceName": "Colorful Whispers",
+        "guiName": "Colorful Whispers",
+        "settingsVersion": 1,
+        "settingsFile": "settings.json",
+        "settingsMigrator": "lib/settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/Leyki/colorful-whispers/master/"]
+}
